@@ -1,0 +1,16 @@
+div{
+    background-color: burlywood;
+    width: 350px;
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+    content: 10px;
+}
+
+.navbar li{
+    float:left;
+    list-style: none;
+    padding: 5px;
+    background-color: aliceblue;
+    
+}
